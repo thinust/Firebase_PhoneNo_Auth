@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755650256241",
+    "project_id": "fir-authphone-a6370",
+    "storage_bucket": "fir-authphone-a6370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755650256241:android:ebce45370b927892dc6ad0",
+        "android_client_info": {
+          "package_name": "com.oriensolutions.firebaseauthwithphone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIGCGWMpIot3zq-iXGG42Z0tAtye9XPfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
